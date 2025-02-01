@@ -17,20 +17,20 @@ Cast of Characters:
 
 Elphaba..................................................    (Witch of the West)
 G(a)linda ...............................................     (Witch of the North)
-Nessarose .........................................….   (Witch of the East)
-Fiyero..............................................…...     (Scarecrow/ Winkie Prince)
-Boq..............................................….…..     (Tinman/Munchkin)
-Mme. Morrible..................................…     (Press Secretary/Head of Shiz)
-Wizard............................................…...       (Leader of Oz)
+Nessarose ......................................... .   (Witch of the East)
+Fiyero.............................................. ...     (Scarecrow/ Winkie Prince)
+Boq.............................................. . ..     (Tinman/Munchkin)
+Mme. Morrible..................................      (Press Secretary/Head of Shiz)
+Wizard............................................ ...       (Leader of Oz)
 Dr. Dillamond........................................      (Elphaba's Professor/Goat) 
-Frex................................................……       (Witch's Father)
-Melena.............................................…..      (Witch's Mother)
-Shen Shen.........................................….      (Galinda's Friend)
-Pfanee..............................................…..        (Galinda's Friend)
-Chistery.............................................…        (Winged Monkey)
-Head Guard.......................................…        (Ozian Army Member)
-Avaric..............................................…..       (Fiyero's Servant)
-Professer...........................................….        (Dillamond's Replacement)
+Frex................................................         (Witch's Father)
+Melena............................................. ..      (Witch's Mother)
+Shen Shen......................................... .      (Galinda's Friend)
+Pfanee.............................................. ..        (Galinda's Friend)
+Chistery.............................................         (Winged Monkey)
+Head Guard.......................................         (Ozian Army Member)
+Avaric.............................................. ..       (Fiyero's Servant)
+Professer........................................... .        (Dillamond's Replacement)
  
 
 ACT I
@@ -2174,5 +2174,4 @@ WICKED!!!
 
 
 30
-
 
